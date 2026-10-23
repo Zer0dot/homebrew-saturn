@@ -1,9 +1,9 @@
 class Saturn < Formula
   desc "Run the Saturn agent visualizer as a local libkrun microVM"
   homepage "https://github.com/Zer0dot/saturn-selfhost"
-  url "https://github.com/Zer0dot/saturn-selfhost/releases/download/selfhost-v0.2.36/saturn-aarch64-apple.tar.gz"
-  version "0.2.36"
-  sha256 "abd9bc3ba8e25ddd5579cde119580ba7589c909298e1b479d1315b17682c374e"
+  url "https://github.com/Zer0dot/saturn-selfhost/releases/download/selfhost-v0.2.37/saturn-aarch64-apple.tar.gz"
+  version "0.2.37"
+  sha256 "16c2ac62fa3be0a1bd2d3a0f9c1b4631a7aadf1d3d5e6c0cff8686d43bbb2bd2"
   license "GPL-2.0-only"
 
   depends_on :macos
